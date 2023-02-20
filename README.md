@@ -14,7 +14,7 @@
 <br>
 
 #### :mag: 패키지 구조
-> main2.py : 메인 모듈<br><br>
+> **main2.py** : 메인 모듈<br><br>
 > :one: Crawler : 데이터 크롤링 함수 &rightarrow; **mknews_crw2.py** <br>
 > :two: DB_Load : DB 생성 및 추출 후 데이터프레임으로 출력하는 함수 &rightarrow; **dbTodf.py** <br>
 > :three: RPA 
