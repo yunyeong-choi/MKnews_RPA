@@ -1,6 +1,5 @@
 ### MKnews_RPA : 매일경제 인기뉴스 RPA 패키지
 -  <`22 SESAC 실무 프로젝트 기반 금융데이터 분석가 양성 과정> 내 RPA 프로젝트
-
 <br>
 
 #### :newspaper: 프로젝트 설명
@@ -11,7 +10,7 @@
 > - 활용 도구 및 언어 :![python badge](https://img.shields.io/badge/-Python-%23F7DF1E?style=plastic-square&logo=Python&logoColor=ffdd54&color=3776AB) ![mysql badge](https://img.shields.io/badge/-%20MySQL-%23F7DF1E?style=plastic-square&logo=mysql&logoColor=white&color=0F3460) ![AWS badge](https://img.shields.io/badge/-%20AWS%20ec2-%23F7DF1E?style=plastic-square&logo=amazonaws&logoColor=EF5B0C&color=FEF9A7) ![AWS badge](https://img.shields.io/badge/-%20AWS%20RDS-%23F7DF1E?style=plastic-square&logo=amazonaws&logoColor=EF5B0C&color=FEF9A7)
 <br>
 
-<br><br>
+<br>
 
 #### :mag: 패키지 구조
 > main2.py : 메인 모듈<br><br>
