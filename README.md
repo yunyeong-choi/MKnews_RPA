@@ -8,8 +8,9 @@
 > - 기획의도 : **크롤링**한 뉴스들에 대한 **이메일 발송 자동화**와 유저가 원하는 카테고리별 뉴스에 대한 **텔레그램 발송 자동화**를 하나의 파이프라인으로 구현하고자 함 <br>
 > - 활용 데이터 : 매일경제 웹 사이트 내 오늘의 인기뉴스 페이지 (https://www.mk.co.kr/news/ranking)
 > - 활용 도구 및 언어 :![python badge](https://img.shields.io/badge/-Python-%23F7DF1E?style=plastic-square&logo=Python&logoColor=ffdd54&color=3776AB) ![mysql badge](https://img.shields.io/badge/-%20MySQL-%23F7DF1E?style=plastic-square&logo=mysql&logoColor=white&color=0F3460) ![AWS badge](https://img.shields.io/badge/-%20AWS%20ec2-%23F7DF1E?style=plastic-square&logo=amazonaws&logoColor=EF5B0C&color=FEF9A7) ![AWS badge](https://img.shields.io/badge/-%20AWS%20RDS-%23F7DF1E?style=plastic-square&logo=amazonaws&logoColor=EF5B0C&color=FEF9A7)
-<br>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68022088/220157056-c146c785-823b-4b1c-8e6b-a387e3ff2595.png"  width="600" height="400" />
+</p>
 <br>
 
 #### :mag: 패키지 구조
